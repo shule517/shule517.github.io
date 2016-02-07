@@ -17,5 +17,21 @@
   ],
   "devDependencies": {
     "Honoka": "3.3.6-a"
+  },
+  "exportsOverride": {
+    "Honoka": {
+      "": [
+        "**/*.eot",
+        "**/*.svg",
+        "**/*.ttf",
+        "**/*.woff"
+      ],
+      "js": [
+        "**/*.js"
+      ],
+      "css": [
+        "**/*.css"
+      ]
+    }
   }
 }
