@@ -1,0 +1,21 @@
+{
+  "name": "PeerstPlayer",
+  "homepage": "http://peerst.jp/",
+  "authors": [
+    "shule517 <shule517@gmail.com>"
+  ],
+  "description": "PeerstPlayerの公開ページ",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Honoka": "3.3.6-a"
+  }
+}
